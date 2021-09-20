@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Abdullah Hammudah, a fresh Communication & Electronics engineer whom choosing Software & Web Development as a career 
 - 👀 I’m interested in Web technologies (mostly, Front-End), software in general and also business
+- 👨‍💻I have learnt Python and have done some projcets to gain hands-on experience.
 - 🌱 I’m currently learning React.js, node.js & express.js, Version Controlling (Git) and practicing (JS->async js & REST API,HTML,CSS) by Building educational projects!
 - 💞️ I’m looking to collaborate on any front-end web projects (Entry level)
 - 📫 How to reach me :
