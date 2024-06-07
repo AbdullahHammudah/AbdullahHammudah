@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Abdullah Hammudah, a fresh Communication & Electronics engineer whom choosing Software & Web Development as a career 
-- 👀 I’m interested in Web technologies (mostly, Front-End), software in general and also business
-- 👨‍💻I have learnt Python and have done some projcets to gain hands-on experience.
-- 🌱 I’m currently learning React.js, node.js & express.js, Version Controlling (Git) and practicing (JS->async js & REST API,HTML,CSS) by Building educational projects!
-- 💞️ I’m looking to collaborate on any front-end web projects (Entry level)
+- 👋 Hi, I’m Abdullah Hammudah, a Communication & Electronics engineer whom choosing Software & DevOps as a career 
+- 👀 I’m interested in Software Development & Operations technologies (mostly, Cloud & DevOps approach), software in general and also business
+- 👨‍💻I have learnt Python and have done some projects to gain hands-on experience.
+- 🌱 I’m currently learning Linux, Terraform, Docker & Kubernetes, Version Controlling (Git) and practicing on KodeKloud Engineer platform!
+- 💞️ I’m looking to collaborate on any shared interest
 - 📫 How to reach me :
     ->www.linkedin.com/in/Pido
     ->hammudah.active@gmail.com
